@@ -1,10 +1,13 @@
 {
   "name": "full-modern-wesbite-newbiz",
   "version": "1.0.0",
-  "description": "a html/css website challange am doing",
+  "description": "a html/css website challenge am doing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
