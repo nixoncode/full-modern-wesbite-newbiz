@@ -1,0 +1,39 @@
+section#home {
+    background-image: url("../../img/intro-bg.png");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 6rem 0;
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home-text {
+        color: $white;
+        flex: 1;
+
+        h1 {
+            font-size: 3em;
+            font-weight: 500;
+            margin-bottom: 1rem;
+            span {
+                text-decoration: underline;
+            }
+        }
+        .cta {
+            .button {
+                font-weight: 700;
+                font-size: 1em;
+                margin-right: 1rem;
+            }
+        }
+    }
+    .home-img {
+        width: 50%;
+        margin: 0 auto;
+        flex: 1;
+    }
+}
