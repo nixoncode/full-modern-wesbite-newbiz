@@ -1,0 +1,30 @@
+{
+  "name": "full-modern-wesbite-newbiz",
+  "version": "1.0.0",
+  "description": "a html/css website challange am doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nixoncode/full-modern-wesbite-newbiz.git"
+  },
+  "keywords": [
+    "website",
+    "scss",
+    "html",
+    "vite",
+    "flexbox",
+    "grid"
+  ],
+  "author": "Nixon Kosgei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nixoncode/full-modern-wesbite-newbiz/issues"
+  },
+  "homepage": "https://github.com/nixoncode/full-modern-wesbite-newbiz#readme",
+  "devDependencies": {
+    "vite": "^2.7.10"
+  }
+}
